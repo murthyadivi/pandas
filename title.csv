@@ -1,0 +1,17 @@
+job_id,job_title,min_salary,max_salary
+PRES_A,President,20000,40000
+VP_A,VP,15000,30000
+ADMIN,Admin.,3000,6000
+MGR_F,Fin Mgr,8200,16000
+ACC_F,Accounts Analyst,4200,9000
+MGR_F,Accounting Manager,8200,16000
+ACC_PB_F,Public Accountant,4200,9000
+MGR_S,Sales Manager,10000,20000
+AGT_S,Sales Agent,6000,12000
+MGR_PR,PR Manager,8000,15000
+CHECK_PR,PR Checker,2500,5500
+MGR_STR,inventory Manager,5500,8500
+MGR_M,Mktg. Manager,9000,15000
+AGT_M,Mktg. Agent,4000,9000
+AGT_H,HR Agent,4000,9000
+AGT_PR,PR Agent,4500,10500

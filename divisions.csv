@@ -1,0 +1,15 @@
+department_id,department_name,manager_id,location_id
+1,Admin,250,17
+2,Mktg,251,18
+3,Public Relations,143,17
+4,HR,254,24
+5,Logistics,151,15
+6,IT,129,14
+7,Procurement,255,27
+8,Sales,181,25
+9,Field,125,17
+10,Corporate,135,17
+11,Accounting,256,17
+12,Treasury,431,17
+13,Stores,293,17
+14,Credit,279,17
